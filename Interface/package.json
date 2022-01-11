@@ -12,7 +12,6 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.24.0",
-    "nodemon": "^2.0.15",
     "venom-bot": "^4.0.4"
   }
 }
