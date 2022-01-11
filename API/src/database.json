@@ -1,0 +1,30 @@
+{
+  "users": [],
+  "menu": [
+    {
+      "id": 1,
+      "name": "X-Burguer",
+      "price": 20
+    },
+    {
+      "id": 2,
+      "name": "X-Salada",
+      "price": 10.5
+    },
+    {
+      "id": 3,
+      "name": "Misto quente",
+      "price": 5
+    },
+    {
+      "id": 4,
+      "name": "Suco",
+      "price": 4.6
+    },
+    {
+      "id": 5,
+      "name": "Refrigerante 500ml",
+      "price": 8
+    }
+  ]
+}

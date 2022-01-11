@@ -1,0 +1,3 @@
+Esta API foi desenvolvida simplismente para manipulação de dados
+
+Para isso foi utilizado um arquivo JSON e a dependência lowdb

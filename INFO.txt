@@ -1,0 +1,11 @@
+Ferramenta urilizada: VS Code v 1.61.2
+
+Dependências:
+
+	Interface
+"axios": "^0.24.0",
+"venom-bot": "^4.0.4"
+
+	API
+"lowdb": "0.16.2",
+"express": "^4.17.2",
